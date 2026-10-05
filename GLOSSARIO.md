@@ -1,0 +1,21 @@
+# Glossário
+
+- **Acoplamento bibliográfico:** relação entre documentos que compartilham referências. A força é definida no momento de publicação do corpus analisado.
+- **Altmetria:** estudo de eventos de atenção, uso e circulação on-line associados a objetos de pesquisa; não é sinônimo de impacto social.
+- **Bibliometria:** aplicação de métodos quantitativos à comunicação registrada, sobretudo documentos e relações bibliográficas.
+- **Cientometria:** estudo quantitativo da ciência, tecnologia e inovação, incluindo atores, instituições, políticas e resultados.
+- **Citação:** relação explícita de referência entre documentos. Sua função e significado variam.
+- **Cocitação:** relação entre duas unidades quando são citadas conjuntamente por documentos posteriores.
+- **Contagem completa:** atribui peso integral a cada participante ou relação; pode inflar totais de itens colaborativos.
+- **Contagem fracionária:** distribui o peso de uma publicação ou relação entre participantes segundo regra declarada.
+- **Corpus:** conjunto de registros construído por critérios, fontes, consultas e datas explícitas.
+- **Coword ou copalavras:** relação entre termos que coocorrem em campos ou textos definidos.
+- **Desambiguação:** identificação e separação de entidades homônimas, ou reunião de variantes da mesma entidade.
+- **Fator de impacto:** média de citações calculada para um periódico e janela específicos; não mede diretamente a qualidade de um artigo.
+- **Índice h:** maior valor `h` para o qual há ao menos `h` trabalhos com `h` citações; depende de fonte, área e carreira.
+- **Informetria:** estudo quantitativo da informação em diferentes formas, canais e contextos.
+- **Normalização:** transformação destinada a tornar medidas mais comparáveis entre campos, anos ou práticas de publicação.
+- **Rede bibliométrica:** modelo no qual nós e arestas representam entidades e relações documentais definidas pelo pesquisador.
+- **Science mapping:** família de métodos para representar estruturas intelectuais, sociais ou temáticas da ciência.
+- **Unidade de análise:** entidade sobre a qual se calcula ou interpreta uma medida, como documento, autor, revista ou instituição.
+- **Webometria:** estudo quantitativo de fenômenos informacionais e relações na Web.

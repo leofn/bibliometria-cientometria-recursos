@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Se este curso for útil, cite o repositório."
+title: "Curso aberto de bibliometria e cientometria"
+type: software
+authors:
+  - family-names: "Nascimento"
+    given-names: "Leonardo Fernandes"
+    email: "leofn@ufba.br"
+repository-code: "https://github.com/leofn/bibliometria-cientometria-recursos"
+url: "https://github.com/leofn/bibliometria-cientometria-recursos"
+license: CC-BY-4.0
+version: 1.0.0
+date-released: 2026-10-05
+keywords:
+  - bibliometria
+  - cientometria
+  - informetria
+  - ciência da ciência
+  - métricas responsáveis
