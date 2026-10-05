@@ -15,3 +15,7 @@ Os scripts em `scripts/` e `exemplos/` estão sob a [Licença MIT](https://opens
 ## Obras referenciadas
 
 As licenças acima não abrangem livros, artigos, páginas, marcas ou bases de terceiros. O repositório distribui referências, anotações próprias e links, não cópias integrais protegidas.
+
+## PDFs de terceiros
+
+Os arquivos em `leituras/pdfs/` conservam as licenças indicadas individualmente em `leituras/manifest.json` e `leituras/README.md`. A licença geral do curso não substitui nem amplia essas licenças. PDFs sem autorização explícita de compartilhamento não são incorporados.

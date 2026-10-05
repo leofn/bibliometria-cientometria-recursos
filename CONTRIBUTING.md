@@ -29,5 +29,8 @@ Antes do pull request:
 
 ```bash
 python scripts/validate_repo.py
+python scripts/validate_pdfs.py
 python exemplos/resumo_corpus.py data/referencias.csv
 ```
+
+Para propor um PDF, informe a URL oficial, a versão e a evidência da licença de redistribuição. Acesso gratuito sem licença explícita não basta para re-hospedagem.

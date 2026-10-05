@@ -11,14 +11,16 @@ Repositório didático, em português, para aprender **bibliometria, cientometri
 1. Leia [Como usar este curso](curso/00-como-usar.md).
 2. Percorra os dez módulos na ordem apresentada em [Trilha de aprendizagem](curso/README.md).
 3. Faça os cinco [laboratórios](laboratorios/README.md).
-4. Consulte o [glossário](GLOSSARIO.md) e a [bibliografia completa](bibliografia/bibliografia-completa.md).
-5. Encerre com o [projeto final](curso/10-projeto-final.md) e a [autoavaliação](AUTOAVALIACAO.md).
+4. Acesse a [biblioteca de PDFs auditados](leituras/README.md).
+5. Consulte o [glossário](GLOSSARIO.md) e a [bibliografia completa](bibliografia/bibliografia-completa.md).
+6. Encerre com o [projeto final](curso/10-projeto-final.md) e a [autoavaliação](AUTOAVALIACAO.md).
 
 ## O que você encontrará
 
 - **10 módulos**, do nível introdutório ao avançado;
 - **74 horas estimadas** de estudo e prática;
 - **120 referências verificadas**, com DOI ou URL primária quando disponível;
+- **28 PDFs redistribuíveis**, com versão, licença e checksum registrados;
 - **71 recursos on-line ativos**, classificados por acesso e momento de uso;
 - dados em **JSON, CSV e BibTeX**;
 - laboratórios com **OpenAlex, Crossref, OpenRefine/Python, bibliometrix e VOSviewer**;
@@ -56,6 +58,8 @@ O material pode ser usado como disciplina curta, grupo de leitura ou oficina. Ca
 
 - [Referências em JSON](data/referencias.json), [CSV](data/referencias.csv) e [BibTeX](data/referencias.bib)
 - [Recursos em JSON](data/recursos.json) e [CSV](data/recursos.csv)
+- [Inventário de PDFs em JSON](leituras/manifest.json) e [CSV](leituras/manifest.csv)
+- [Checksums SHA-256](leituras/CHECKSUMS.sha256)
 - [Proveniência e limites](data/PROVENIENCIA.md)
 - [Esquema dos dados](data/SCHEMA.md)
 

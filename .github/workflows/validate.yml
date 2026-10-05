@@ -17,5 +17,7 @@ jobs:
           python-version: "3.12"
       - name: Validar estrutura e dados
         run: python scripts/validate_repo.py
+      - name: Validar PDFs, licenças e checksums
+        run: python scripts/validate_pdfs.py
       - name: Executar exemplo offline
         run: python exemplos/resumo_corpus.py data/referencias.csv
